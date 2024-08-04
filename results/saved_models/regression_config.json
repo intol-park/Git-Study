@@ -1,0 +1,1 @@
+{"config": {"input_shape": [13], "hidden_units": [64, 32], "epochs": 10, "batch_size": 32, "learning_rate": 0.001}, "hidden_units": [64, 32]}
